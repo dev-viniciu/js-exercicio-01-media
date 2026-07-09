@@ -11,4 +11,5 @@ if (media >= 7) {
     console.log("Aluno reprovado");
 }
 
+
 console.log("A média das notas é: " + media)
